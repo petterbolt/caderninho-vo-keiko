@@ -1,10 +1,1091 @@
 {
   "cats": [
-    { "slug": "bolos", "nome": "Bolos & Tortas", "capa": "placeholder.svg", "n": 2, "emoji": "🍰" },
-    { "slug": "paes", "nome": "Pães", "capa": "placeholder.svg", "n": 1, "emoji": "🍞" },
-    { "slug": "salgados", "nome": "Frango & Carnes", "capa": "placeholder.svg", "n": 1, "emoji": "🍗" }
+    {
+      "slug": "cafe",
+      "nome": "Café da Manhã",
+      "capa": "img/cat-cafe.jpg",
+      "n": 66,
+      "emoji": "🍳"
+    },
+    {
+      "slug": "bolos",
+      "nome": "Bolos & Tortas",
+      "capa": "placeholder.svg",
+      "n": 2,
+      "emoji": "🍰"
+    },
+    {
+      "slug": "paes",
+      "nome": "Pães",
+      "capa": "placeholder.svg",
+      "n": 1,
+      "emoji": "🍞"
+    },
+    {
+      "slug": "salgados",
+      "nome": "Frango & Carnes",
+      "capa": "placeholder.svg",
+      "n": 1,
+      "emoji": "🍗"
+    }
   ],
   "recipes": [
+    {
+      "id": "cafe-pao-low-carb",
+      "t": "Pão Low Carb",
+      "tn": "pao low carb",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao low carb",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-oopsie",
+      "t": "Pão Oopsie",
+      "tn": "pao oopsie",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao oopsie",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-microondas",
+      "t": "Pão de Microondas",
+      "tn": "pao de microondas",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de microondas",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-chia",
+      "t": "Pão de Chia",
+      "tn": "pao de chia",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de chia",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-leite-de-coco",
+      "t": "Pão de Leite de Coco",
+      "tn": "pao de leite de coco",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de leite de coco",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-abobora",
+      "t": "Pão de Abóbora",
+      "tn": "pao de abobora",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de abobora",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-linhaca",
+      "t": "Pão de Linhaça",
+      "tn": "pao de linhaca",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de linhaca",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-amendoim",
+      "t": "Pão de Amendoim",
+      "tn": "pao de amendoim",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de amendoim",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-berinjela-de-microondas",
+      "t": "Pão de Berinjela de Microondas",
+      "tn": "pao de berinjela de microondas",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de berinjela de microondas",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-parmesao",
+      "t": "Pão de Parmesão",
+      "tn": "pao de parmesao",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de parmesao",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-couve-flor",
+      "t": "Pão de Couve-Flor",
+      "tn": "pao de couve-flor",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de couve-flor",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-nuvem",
+      "t": "Pão Nuvem",
+      "tn": "pao nuvem",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao nuvem",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-com-psyllium",
+      "t": "Pão com Psyllium",
+      "tn": "pao com psyllium",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao com psyllium",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-paozinho-low-carb",
+      "t": "Pãozinho Low Carb",
+      "tn": "paozinho low carb",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "paozinho low carb",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-hamburguer",
+      "t": "Pão de Hamburguer",
+      "tn": "pao de hamburguer",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de hamburguer",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-sanduiche-de-atum",
+      "t": "Sanduíche de Atum",
+      "tn": "sanduiche de atum",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "sanduiche de atum",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-sanduiche-de-frango",
+      "t": "Sanduíche de Frango",
+      "tn": "sanduiche de frango",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "sanduiche de frango",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-torradas-com-abacate-e-ovo-poche",
+      "t": "Torradas com Abacate e Ovo Pochê",
+      "tn": "torradas com abacate e ovo poche",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "torradas com abacate e ovo poche",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-panini",
+      "t": "Panini",
+      "tn": "panini",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "panini",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-panini-de-nozes",
+      "t": "Panini de Nozes",
+      "tn": "panini de nozes",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "panini de nozes",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-sanduiche-de-pasta-de-ovos",
+      "t": "Sanduíche de Pasta de Ovos",
+      "tn": "sanduiche de pasta de ovos",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "sanduiche de pasta de ovos",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-waffer-low-carb",
+      "t": "Waffer Low Carb",
+      "tn": "waffer low carb",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "waffer low carb",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-basca",
+      "t": "Omelete Basca",
+      "tn": "omelete basca",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete basca",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-com-rucula",
+      "t": "Omelete com Rúcula",
+      "tn": "omelete com rucula",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete com rucula",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-espinafre",
+      "t": "Omelete de Espinafre",
+      "tn": "omelete de espinafre",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de espinafre",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-frango",
+      "t": "Omelete de Frango",
+      "tn": "omelete de frango",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de frango",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-ocidental",
+      "t": "Omelete Ocidental",
+      "tn": "omelete ocidental",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete ocidental",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-jilo",
+      "t": "Omelete de Jiló",
+      "tn": "omelete de jilo",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de jilo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-cogumelo",
+      "t": "Omelete de Cogumelo",
+      "tn": "omelete de cogumelo",
+      "cad": "Café da Manhã — Parte 1",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de cogumelo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-atum-com-acelga",
+      "t": "Omelete de Atum com Acelga",
+      "tn": "omelete de atum com acelga",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de atum com acelga",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-clara-de-ovo-com-salsinha",
+      "t": "Omelete de Clara de Ovo com Salsinha",
+      "tn": "omelete de clara de ovo com salsinha",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de clara de ovo com salsinha",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-de-berinjela-de-forno",
+      "t": "Omelete de Berinjela de Forno",
+      "tn": "omelete de berinjela de forno",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete de berinjela de forno",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-omelete-pizza",
+      "t": "Omelete Pizza",
+      "tn": "omelete pizza",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "omelete pizza",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-ovo-no-pimentao",
+      "t": "Ovo no Pimentão",
+      "tn": "ovo no pimentao",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "ovo no pimentao",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-ovos-mexidos-com-queijo-e-bacon",
+      "t": "Ovos Mexidos com Queijo e Bacon",
+      "tn": "ovos mexidos com queijo e bacon",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "ovos mexidos com queijo e bacon",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-ovos-em-aro-de-cebola",
+      "t": "Ovos em Aro de Cebola",
+      "tn": "ovos em aro de cebola",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "ovos em aro de cebola",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-ovos-de-codorna-com-ervas",
+      "t": "Ovos de Codorna com Ervas",
+      "tn": "ovos de codorna com ervas",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "ovos de codorna com ervas",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-muffin-de-ovo",
+      "t": "Muffin de Ovo",
+      "tn": "muffin de ovo",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "muffin de ovo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-cupcake-de-ovo-com-bacon",
+      "t": "Cupcake de Ovo com Bacon",
+      "tn": "cupcake de ovo com bacon",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "cupcake de ovo com bacon",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-claras-de-ovos-com-atum",
+      "t": "Claras de Ovos com Atum",
+      "tn": "claras de ovos com atum",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "claras de ovos com atum",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-fritadas-de-ovos-com-brocolis",
+      "t": "Fritadas de Ovos com Brócolis",
+      "tn": "fritadas de ovos com brocolis",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "fritadas de ovos com brocolis",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-fritadas-com-espinafre",
+      "t": "Fritadas com Espinafre",
+      "tn": "fritadas com espinafre",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "fritadas com espinafre",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-palitos-de-abobrinhas-com-parmesao",
+      "t": "Palitos de Abobrinhas com Parmesão",
+      "tn": "palitos de abobrinhas com parmesao",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "palitos de abobrinhas com parmesao",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-chips-de-abobrinhas",
+      "t": "Chips de Abobrinhas",
+      "tn": "chips de abobrinhas",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "chips de abobrinhas",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-massa-de-couve-flor-para-pizza",
+      "t": "Massa de Couve-Flor para Pizza",
+      "tn": "massa de couve-flor para pizza",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "massa de couve-flor para pizza",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pizza-cetogenica",
+      "t": "Pizza Cetogênica",
+      "tn": "pizza cetogenica",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pizza cetogenica",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pizza-de-abobrinha",
+      "t": "Pizza de Abobrinha",
+      "tn": "pizza de abobrinha",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pizza de abobrinha",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-mini-pizza-de-berinjela",
+      "t": "Mini Pizza de Berinjela",
+      "tn": "mini pizza de berinjela",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "mini pizza de berinjela",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-muffin-de-queijo-e-bacon",
+      "t": "Muffin de Queijo e Bacon",
+      "tn": "muffin de queijo e bacon",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "muffin de queijo e bacon",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-misto-quente",
+      "t": "Misto Quente",
+      "tn": "misto quente",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "misto quente",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-panqueca-americana",
+      "t": "Panqueca Americana",
+      "tn": "panqueca americana",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "panqueca americana",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-tortinha-de-brocolis",
+      "t": "Tortinha de Brócolis",
+      "tn": "tortinha de brocolis",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "tortinha de brocolis",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-salgado-de-frango-e-brocolis",
+      "t": "Salgado de Frango e Brócolis",
+      "tn": "salgado de frango e brocolis",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "salgado de frango e brocolis",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-cestinha-de-peito-de-peru",
+      "t": "Cestinha de Peito de Peru",
+      "tn": "cestinha de peito de peru",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "cestinha de peito de peru",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-coxinha-com-cream-cheese",
+      "t": "Coxinha com Cream Cheese",
+      "tn": "coxinha com cream cheese",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "coxinha com cream cheese",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-biscoito-de-abobrinha-e-queijo",
+      "t": "Biscoito de Abobrinha e Queijo",
+      "tn": "biscoito de abobrinha e queijo",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "biscoito de abobrinha e queijo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-biscoito-de-gergelim",
+      "t": "Biscoito de Gergelim",
+      "tn": "biscoito de gergelim",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "biscoito de gergelim",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-biscoito-de-coco",
+      "t": "Biscoito de Coco",
+      "tn": "biscoito de coco",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "biscoito de coco",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-cream-cracker-de-linhaca",
+      "t": "Cream Cracker de Linhaça",
+      "tn": "cream cracker de linhaca",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "cream cracker de linhaca",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-bolinho-de-caranguejo",
+      "t": "Bolinho de Caranguejo",
+      "tn": "bolinho de caranguejo",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "bolinho de caranguejo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-bolinho-de-cenoura",
+      "t": "Bolinho de Cenoura",
+      "tn": "bolinho de cenoura",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "bolinho de cenoura",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-bolinho-de-abobrinha-de-queijo",
+      "t": "Bolinho de Abobrinha de Queijo",
+      "tn": "bolinho de abobrinha de queijo",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "bolinho de abobrinha de queijo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-bolinho-de-ricota-com-peito-de-peru",
+      "t": "Bolinho de Ricota com Peito de Peru",
+      "tn": "bolinho de ricota com peito de peru",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "bolinho de ricota com peito de peru",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-coxinha-de-couve-flor",
+      "t": "Coxinha de Couve-Flor",
+      "tn": "coxinha de couve-flor",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "coxinha de couve-flor",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-bolinho-de-espinafre",
+      "t": "Bolinho de Espinafre",
+      "tn": "bolinho de espinafre",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "bolinho de espinafre",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
+    {
+      "id": "cafe-pao-de-queijo",
+      "t": "Pão de Queijo",
+      "tn": "pao de queijo",
+      "cad": "Café da Manhã — Parte 2",
+      "cat": "cafe",
+      "foto": "",
+      "ing": [
+        "Ingredientes ainda não cadastrados — me manda a receita completa da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "ingn": "pao de queijo",
+      "prep": [
+        "Modo de preparo ainda não cadastrado — me manda o passo a passo da Vó Keiko pra eu preencher aqui 💛"
+      ],
+      "dica": null
+    },
     {
       "id": "bolo-banana",
       "t": "Bolo de banana sem açúcar",
