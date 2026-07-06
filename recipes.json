@@ -1,0 +1,110 @@
+{
+  "cats": [
+    { "slug": "bolos", "nome": "Bolos & Tortas", "capa": "placeholder.svg", "n": 2, "emoji": "🍰" },
+    { "slug": "paes", "nome": "Pães", "capa": "placeholder.svg", "n": 1, "emoji": "🍞" },
+    { "slug": "salgados", "nome": "Frango & Carnes", "capa": "placeholder.svg", "n": 1, "emoji": "🍗" }
+  ],
+  "recipes": [
+    {
+      "id": "bolo-banana",
+      "t": "Bolo de banana sem açúcar",
+      "tn": "bolo de banana sem acucar",
+      "cad": "Bolos & Tortas • 50 min",
+      "cat": "bolos",
+      "foto": "",
+      "ing": [
+        "3 bananas maduras amassadas",
+        "3 ovos",
+        "1/2 xícara de óleo",
+        "1 e 1/2 xícara de farinha de aveia (sem glúten)",
+        "1 colher (sopa) de fermento em pó",
+        "1 colher (chá) de canela",
+        "1 punhado de nozes picadas (opcional)"
+      ],
+      "ingn": "3 bananas maduras amassadas 3 ovos 1/2 xicara de oleo 1 e 1/2 xicara de farinha de aveia sem gluten 1 colher sopa de fermento em po 1 colher cha de canela 1 punhado de nozes picadas opcional",
+      "prep": [
+        "Bata no liquidificador as bananas, os ovos e o óleo até ficar homogêneo.",
+        "Misture a farinha de aveia, o fermento e a canela numa tigela.",
+        "Junte os líquidos aos secos e mexa bem, sem bater demais.",
+        "Despeje numa forma untada e leve ao forno preaquecido a 180°C por 35 minutos.",
+        "Espere amornar por 10 minutos antes de desenformar."
+      ],
+      "dica": "Se as bananas estiverem bem maduras, o bolo fica naturalmente mais docinho, sem precisar de nada a mais."
+    },
+    {
+      "id": "torta-limao",
+      "t": "Torta de limão sem açúcar",
+      "tn": "torta de limao sem acucar",
+      "cad": "Bolos & Tortas • 1h20",
+      "cat": "bolos",
+      "foto": "",
+      "ing": [
+        "2 xícaras de farinha de amêndoas",
+        "4 colheres (sopa) de manteiga gelada",
+        "1 ovo",
+        "Suco de 4 limões",
+        "Raspas de 2 limões",
+        "3 ovos (para o recheio)",
+        "Adoçante culinário a gosto"
+      ],
+      "ingn": "2 xicaras de farinha de amendoas 4 colheres sopa de manteiga gelada 1 ovo suco de 4 limoes raspas de 2 limoes 3 ovos para o recheio adocante culinario a gosto",
+      "prep": [
+        "Misture a farinha de amêndoas, a manteiga e o ovo até formar uma massa.",
+        "Forre uma forma de fundo removível e leve ao forno a 180°C por 12 minutos.",
+        "Bata o suco, as raspas, os ovos do recheio e o adoçante até engrossar em fogo baixo.",
+        "Despeje o recheio sobre a massa já assada.",
+        "Leve à geladeira por pelo menos 2 horas antes de servir."
+      ],
+      "dica": "Use limões bem suculentos — o azedinho natural já dá o sabor, sem precisar de muito adoçante."
+    },
+    {
+      "id": "pao-caseiro",
+      "t": "Pão caseiro sem glúten",
+      "tn": "pao caseiro sem gluten",
+      "cad": "Pães • 2h",
+      "cat": "paes",
+      "foto": "",
+      "ing": [
+        "500g de mix de farinhas sem glúten",
+        "10g de fermento biológico seco",
+        "1 colher (sopa) de azeite",
+        "1 colher (chá) de sal",
+        "300ml de água morna"
+      ],
+      "ingn": "500g de mix de farinhas sem gluten 10g de fermento biologico seco 1 colher sopa de azeite 1 colher cha de sal 300ml de agua morna",
+      "prep": [
+        "Misture os secos numa tigela grande.",
+        "Adicione a água morna e o azeite, sovando até formar uma massa lisa.",
+        "Cubra e deixe descansar por 1 hora, em local morno, até crescer.",
+        "Coloque numa forma de pão e deixe descansar mais 20 minutos.",
+        "Asse a 200°C por 40 minutos, até dourar por cima."
+      ],
+      "dica": "Pão sem glúten fica melhor comido no mesmo dia — congele em fatias pra durar a semana toda."
+    },
+    {
+      "id": "frango-assado",
+      "t": "Frango assado com ervas",
+      "tn": "frango assado com ervas",
+      "cad": "Frango & Carnes • 1h10",
+      "cat": "salgados",
+      "foto": "",
+      "ing": [
+        "1 frango inteiro (ou 6 sobrecoxas)",
+        "3 dentes de alho amassados",
+        "Suco de 1 limão",
+        "Alecrim e tomilho a gosto",
+        "Sal e pimenta a gosto",
+        "3 colheres (sopa) de azeite"
+      ],
+      "ingn": "1 frango inteiro ou 6 sobrecoxas 3 dentes de alho amassados suco de 1 limao alecrim e tomilho a gosto sal e pimenta a gosto 3 colheres sopa de azeite",
+      "prep": [
+        "Tempere o frango com o alho, o limão, as ervas, o sal e a pimenta.",
+        "Deixe marinando na geladeira por pelo menos 30 minutos.",
+        "Regue com o azeite e coloque numa assadeira.",
+        "Asse a 200°C por 50 minutos, virando na metade do tempo.",
+        "Deixe descansar 5 minutos antes de servir."
+      ],
+      "dica": "Se puder, deixe marinando de um dia para o outro — o sabor fica muito mais profundo."
+    }
+  ]
+}
