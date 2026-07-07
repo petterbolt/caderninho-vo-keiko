@@ -1,5 +1,5 @@
 "use strict";
-var CACHE = "vk-v1";
+var CACHE = "vk-v2"; // versão nova: descarta qualquer cache antigo (inclusive erros 404 salvos por engano)
 var CORE = [
   "./",
   "./index.html",
@@ -30,8 +30,10 @@ self.addEventListener("fetch", function (e) {
   e.respondWith(
     caches.match(e.request).then(function (cached) {
       return cached || fetch(e.request).then(function (resp) {
-        var copy = resp.clone();
-        caches.open(CACHE).then(function (c) { c.put(e.request, copy); });
+        if (resp && resp.ok) {
+          var copy = resp.clone();
+          caches.open(CACHE).then(function (c) { c.put(e.request, copy); });
+        }
         return resp;
       }).catch(function () { return cached; });
     })
@@ -51,7 +53,7 @@ self.addEventListener("message", function (e) {
     caches.open(CACHE).then(function (c) {
       urls.reduce(function (p, url) {
         return p.then(function () {
-          return fetch(url).then(function (resp) { return c.put(url, resp); }).catch(function () {}).then(function () {
+          return fetch(url).then(function (resp) { if (resp && resp.ok) { return c.put(url, resp); } }).catch(function () {}).then(function () {
             done++;
             client && client.postMessage({ type: "cacheprog", done: done, total: total });
           });
