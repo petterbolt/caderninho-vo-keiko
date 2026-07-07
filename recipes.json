@@ -8,25 +8,39 @@
       "emoji": "🍳"
     },
     {
+      "slug": "almoco",
+      "nome": "Almoço e Jantar",
+      "capa": "img/cat-almoco.jpg",
+      "n": 127,
+      "emoji": "🍗"
+    },
+    {
+      "slug": "sobremesas",
+      "nome": "Sobremesas",
+      "capa": "img/cat-sobremesas.jpg",
+      "n": 203,
+      "emoji": "🍫"
+    },
+    {
       "slug": "bolos",
-      "nome": "Bolos & Tortas",
-      "capa": "placeholder.svg",
-      "n": 2,
+      "nome": "Bolos",
+      "capa": "img/cat-bolos.jpg",
+      "n": 50,
       "emoji": "🍰"
     },
     {
       "slug": "paes",
       "nome": "Pães",
-      "capa": "placeholder.svg",
-      "n": 1,
+      "capa": "img/cat-paes.jpg",
+      "n": 35,
       "emoji": "🍞"
     },
     {
-      "slug": "salgados",
-      "nome": "Frango & Carnes",
-      "capa": "placeholder.svg",
-      "n": 1,
-      "emoji": "🍗"
+      "slug": "natal",
+      "nome": "Natal",
+      "capa": "img/cat-natal.jpg",
+      "n": 100,
+      "emoji": "🎄"
     }
   ],
   "recipes": [
@@ -1167,7 +1181,7 @@
       "t": "Frango assado com ervas",
       "tn": "frango assado com ervas",
       "cad": "Frango & Carnes • 1h10",
-      "cat": "salgados",
+      "cat": "almoco",
       "foto": "",
       "ing": [
         "1 frango inteiro (ou 6 sobrecoxas)",
