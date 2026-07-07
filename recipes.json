@@ -5,21 +5,21 @@
       "slug": "cafe",
       "nome": "Café da Manhã",
       "emoji": "🍳",
-      "capa": "img/cat-cafe.jpg",
+      "capa": "fotos/pao-low-carb.webp",
       "n": 66
     },
     {
       "slug": "almoco",
       "nome": "Almoço e Jantar",
       "emoji": "🍗",
-      "capa": "img/cat-almoco.jpg",
+      "capa": "fotos/aj1-frango-xadrez.webp",
       "n": 127
     },
     {
       "slug": "sobremesas",
       "nome": "Sobremesas",
       "emoji": "🍫",
-      "capa": "img/cat-sobremesas.jpg",
+      "capa": "fotos/sob-bombom-de-morango-na-travessa.webp",
       "n": 203
     },
     {
@@ -33,7 +33,7 @@
       "slug": "paes",
       "nome": "Pães",
       "emoji": "🍞",
-      "capa": "img/cat-paes.jpg",
+      "capa": "fotos/pao-001-pao-de-cenoura-e-sementes-de-girassol.webp",
       "n": 35
     },
     {
